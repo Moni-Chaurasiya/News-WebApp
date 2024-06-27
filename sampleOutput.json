@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 1509,
+  "articles": [
+  {
+   "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Cherlynn Low",
+    "title": "My favorite iOS 18, iPadOS 18 and watchOS 11 features that flew under the radar at WWDC 2024",
+    "description": "There was so much Apple had to cram into its WWDC 2024 keynote that some features were left out of the spotlight. Here at the company's campus, I've had the chance to speak with various executives, as well as get deeper dives into iOS 18, iPadOS 18, Apple Int…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1eaa203c-b2f8-4017-a061-aab171f53193",
+    "urlToImage": null,
+    "publishedAt": "2024-06-12T11:30:44Z",
+    "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+  {
+   "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Jay Peters",
+    "title": "The AI upgrade cycle is here",
+    "description": "The new Apple Intelligence features coming to iOS 18 could be impressive, but they might also just be driving another upgrade cycle.",
+    "url": "https://www.theverge.com/2024/6/12/24176494/apple-intelligence-ai-upgrade-cycle-here",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/P5dOxew0xBSysV0lIfow9ik4eso=/0x0:2040x1360/1200x628/filters:focal(1309x713:1310x714)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931973/236794_iPhone_15_pro_pro_Max_VPavic_0017.jpg",
+    "publishedAt": "2024-06-12T12:00:00Z",
+    "content": "The AI upgrade cycle is here\r\nThe AI upgrade cycle is here\r\n / Will it be worth upgrading your iPhone for Apple Intelligence?\r\nByJay Peters, a news editor who writes about technology, video games, an… [+4024 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Apple Passes Microsoft to Become World's Most Valuable Company Again",
+    "description": "Apple's stock price continues to surge following its WWDC keynote this week, where it introduced an Apple Intelligence suite of AI features coming to the iPhone, iPad, and Mac. In intraday trading today, Apple overtook Microsoft to become the world's most val…",
+    "url": "https://www.macrumors.com/2024/06/12/apple-is-the-worlds-most-valuable-company-again/",
+    "urlToImage": "https://images.macrumors.com/t/f3VEEbWYtJRKFzkdAIZytTWXIpg=/2676x/article-new/2022/01/Apple-Logo-Cash-Feature-Mint.jpg",
+    "publishedAt": "2024-06-12T13:53:06Z",
+    "content": "Apple's stock price continues to surge following its WWDC keynote this week, where it introduced an Apple Intelligence suite of AI features coming to the iPhone, iPad, and Mac. In intraday trading to… [+898 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "iOS 18 Photos App Adds New Utilities Categories for Finding QR Codes, Receipts, Illustrations and More",
+    "description": "Apple introduced a new design for the iOS 18 Photos app that replaces the Library and For You sections with a more integrated all-in-one view, and part of that redesign includes an overhauled Utilities section that makes it easier to find different types of i…",
+    "url": "https://www.macrumors.com/2024/06/11/ios-18-photos-app-utilities/",
+    "urlToImage": "https://images.macrumors.com/t/dGhfqC1ezoyhvQltOFtr6G_3NzE=/2000x/article-new/2024/06/ios-18-photos-utilities.jpg",
+    "publishedAt": "2024-06-12T00:09:00Z",
+    "content": "Apple introduced a new design for the iOS 18Photos app that replaces the Library and For You sections with a more integrated all-in-one view, and part of that redesign includes an overhauled Utilitie… [+1410 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "Safari 18 Features: Highlights, New Reader Mode, and Video Viewer",
+    "description": "In macOS Sequoia, Apple has some additional features in Safari 18 that are likely to be welcomed by Mac users. Here's a quick rundown of what's new.\n\n\n\n\n\nSafari's headline feature in macOS 15 is something called Highlights, which aims to make it easier to dis…",
+    "url": "https://www.macrumors.com/2024/06/12/safari-18-highlights-new-reader-mode-video-viewer/",
+    "urlToImage": "https://images.macrumors.com/t/ybWS2x-S5ct3wwszq8zc0ccA_fw=/1960x/article-new/2024/06/safari-18-highlights.jpg",
+    "publishedAt": "2024-06-12T14:19:47Z",
+    "content": "In macOS Sequoia, Apple has some additional features in Safari 18 that are likely to be welcomed by Mac users. Here's a quick rundown of what's new.\r\nSafari's headline feature in macOS 15 is somethin… [+2216 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "macOS Sequoia: How Window Tiling Currently Works",
+    "description": "With macOS Sequoia, Apple has introduced a new window tiling management feature that aims to make it easy to arrange open windows into a layout that works best for you. \n\n\n\n\n\nPC users have had tiling since at least Windows 7 and Aero Snap, and if you've ever …",
+    "url": "https://www.macrumors.com/2024/06/12/macos-sequoia-window-tiling/",
+    "urlToImage": "https://images.macrumors.com/t/R44fnQqKXIWiNK_QLGfR17AvcRU=/1920x/article-new/2024/06/macos-15-tiling.jpg",
+    "publishedAt": "2024-06-12T11:21:43Z",
+    "content": "With macOS Sequoia, Apple has introduced a new window tiling management feature that aims to make it easy to arrange open windows into a layout that works best for you. \r\nPC users have had tiling sin… [+2435 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "NPR"
+    },
+    "author": "Malaka Gharib",
+    "title": "When a romance ends, can a friendship grow? NPR listeners weigh in",
+    "description": "Listeners explain why they decided to remain friends with their exes, keep a friendly distance — or leave them behind.",
+    "url": "https://www.npr.org/2024/06/12/g-s1-4032/when-a-romance-ends-can-a-friendship-grow",
+    "urlToImage": "https://media.npr.org/assets/img/2024/05/22/gettyimages-1742942876_wide-0658b461cce7c3a6d1b52f5a8bbcd6fcc7a74ace.jpg?s=1400&c=100&f=jpeg",
+    "publishedAt": "2024-06-12T14:02:04Z",
+    "content": "Is it ever a good idea to stay friends with an ex?\r\nLast month, Life Kit asked our audience this question as part of a story and podcast episode on the topic. If you share kids or pets, it might make… [+5750 chars]"
+    },
+  {
+   "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Alistair Barr",
+    "title": "How to make sure your Apple data isn't used to train OpenAI's AI models",
+    "description": "If Apple users connect to their ChatGPT account, OpenAI's data-use policies apply. You still can stop OpenAI using your data to train its AI models.",
+    "url": "https://www.businessinsider.com/make-sure-apple-data-isnt-used-train-openai-ai-models-2024-6",
+    "urlToImage": "https://i.insider.com/66605bf01cd3b1779043655d?width=1200&format=jpeg",
+    "publishedAt": "2024-06-12T09:31:01Z",
+    "content": "Tim Cook, Apple CEO, and Sam Altman, OpenAI CEO.Hardik Chhabra, Nathan Posner; Getty Images\r\n<ul><li>Apple's partnership with OpenAI integrates ChatGPT with Siri.</li><li>Apple works hard to ensure t… [+2266 chars]"
+    },
+  {
+   "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Kwan Wei Kevin Tan",
+    "title": "The 'father of the iPod' says Apple is doing a brilliant job with AI",
+    "description": "\"This is a solid first effort by Apple focusing on real benefits to users (ex. Siri),\" iPod inventor Tony Fadell said of Apple's new AI strategy.",
+    "url": "https://www.businessinsider.com/father-of-the-ipod-apple-doing-brilliant-job-with-ai-2024-6",
+    "urlToImage": "https://i.insider.com/66693a84764df1611258c64b?width=1200&format=jpeg",
+    "publishedAt": "2024-06-12T07:18:06Z",
+    "content": "\"This is a solid first effort by Apple focusing on real benefits to users (ex. Siri).\" iPod inventor Tony Fadell said of Apple's new generative AI strategy.Ramsey Cardy/Sportsfile for Web Summit via … [+2247 chars]"
+    },
+  {
+   "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Kwan Wei Kevin Tan",
+    "title": "Elon Musk dropped his Open AI lawsuit, but he isn't done with Sam Altman and the AI race yet",
+    "description": "The mercurial billionaire is still set on dominating the AI space with his $24 billion startup xAI and EV giant Tesla.",
+    "url": "https://www.businessinsider.com/elon-musk-not-done-sam-altman-ai-race-just-yet-2024-6",
+    "urlToImage": "https://i.insider.com/66691908764df1611258c507?width=1200&format=jpeg",
+    "publishedAt": "2024-06-12T07:10:10Z",
+    "content": "Elon Musk (left) and Sam Altman (right).Steve Granitz/FilmMagic via Getty Images; Andrew Caballero-Reynolds/AFP via Getty Images\r\n<ul><li>Elon Musk withdrew his lawsuit against OpenAI and its CEO, Sa… [+3266 chars]"
+    },
+  {
+   "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Shubhangi Goel",
+    "title": "Spotify is planning a more expensive subscription for music nerds",
+    "description": "Users will be charged at least $5 more every month for a plan that allows better audio and new playlist organization tools, Bloomberg reported.",
+    "url": "https://www.businessinsider.com/spotify-plans-more-expensive-subscription-better-sound-quality-hifi-cost-2024-6",
+    "urlToImage": "https://i.insider.com/666923b2764df1611258c569?width=1200&format=jpeg",
+    "publishedAt": "2024-06-12T04:27:54Z",
+    "content": "Spotify CEO Daniel EkBryan Erickson/BI\r\n<ul><li>Spotify is launching an extra-premium subscription for better audio and playlist tools.</li><li>The new tier will cost users at least $5 more monthly, … [+1968 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Suswati Basu",
+    "title": "Elon Musk withdraws lawsuit against OpenAI and CEO Sam Altman",
+    "description": "Elon Musk has decided to drop his lawsuit against OpenAI and its CEO Sam Altman, which he had initiated after… Continue reading Elon Musk withdraws lawsuit against OpenAI and CEO Sam Altman\nThe post Elon Musk withdraws lawsuit against OpenAI and CEO Sam Altma…",
+    "url": "https://readwrite.com/elon-musk-withdraws-lawsuit-against-openai-and-ceo-sam-altman/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/Elon-Musk-withdraws-lawsuit-against-OpenAI-and-CEO-Sam-Altman.png",
+    "publishedAt": "2024-06-12T12:00:14Z",
+    "content": "Elon Musk has decided to drop his lawsuit against OpenAI and its CEO Sam Altman, which he had initiated after claiming they deviated from their foundational mission of creating artificial intelligenc… [+2077 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Owen Good",
+    "title": "iPhone’s new iOS 18 makes better use of the camera’s flashlight",
+    "description": "Apple’s iOS 18 was announced and shown off Monday at the company’s Worldwide Developer’s Conference but it didn’t show one… Continue reading iPhone’s new iOS 18 makes better use of the camera’s flashlight\nThe post iPhone’s new iOS 18 makes better use of the c…",
+    "url": "https://readwrite.com/iphone-ios-18-release-date-beta-test-flashlight-new-control-center/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-hero-220907.jpg.og_.jpg",
+    "publishedAt": "2024-06-12T01:52:50Z",
+    "content": "Apples iOS 18 was announced and shown off Monday at the companys Worldwide Developers Conference but it didnt show one neat thing iPhones will be able to do when it launches later this year. And that… [+2205 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Alberto Martín",
+    "title": "Apple se olvida de los HomePod, el dispositivo que más necesita Apple Intelligence",
+    "description": "Una de las grandes novedades que nos dejó la WWDC 2024 fue, sin duda, Apple Intelligence, y en especial, las mejoras de Siri. Pese a que potenciará enormemente las posibilidades del asistente de voz, solo estará disponible en los iPhone 15 Pro y en los Mac co…",
+    "url": "http://hipertextual.com/2024/06/homepod-siri-apple-inteligence",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/01/DSC05889-scaled.jpg",
+    "publishedAt": "2024-06-12T10:03:21Z",
+    "content": "Una de las grandes novedades que nos dejó la WWDC 2024 fue, sin duda, Apple Intelligence, y en especial, las mejoras de Siri. Pese a que potenciará enormemente las posibilidades del asistente de voz,… [+2728 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Gabriel Erard",
+    "title": "MediaTek se lanzaría a la yugular de Qualcomm con su propio chip ARM para portátiles con Windows",
+    "description": "Los Snapdragon X Plus y Elite de Qualcomm tendrán competencia feroz en el mundo de los portátiles con Windows. Según reporta Reuters, MediaTek está desarrollando su propio chip ARM para ordenadores con el sistema operativo de Microsoft. La intención de la com…",
+    "url": "http://hipertextual.com/2024/06/mediatek-chip-potatiles-windows",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2019/02/hipertextual-2019440687.jpg",
+    "publishedAt": "2024-06-12T14:48:58Z",
+    "content": "Los Snapdragon X Plus y Elite de Qualcomm tendrán competencia feroz en el mundo de los portátiles con Windows. Según reporta Reuters, MediaTek está desarrollando su propio chip ARM para ordenadores c… [+3317 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Javier Pastor",
+    "title": "Apple Intelligence apunta a ser la excusa perfecta para algo crucial para el futuro: vender más iPhone",
+    "description": "La inteligencia artificial de Apple pronto llegará a las versiones beta de iOS 18, iPadOS 18 y macOS Sequoia, pero solo  una parte de los actuales propietarios de un iPhone podrán probarla. ¿La  razón? Para poder hacerlo necesitarás un iPhone 15 Pro o un iPho…",
+    "url": "https://www.xataka.com/moviles/apple-intelligence-apunta-a-ser-excusa-perfecta-para-algo-crucial-para-futuro-vender-iphone",
+    "urlToImage": "https://i.blogs.es/6c75de/ap1/840_560.jpeg",
+    "publishedAt": "2024-06-12T06:21:12Z",
+    "content": "La inteligencia artificial de Apple pronto llegará a las versiones beta de iOS 18, iPadOS 18 y macOS Sequoia, pero solo  una parte de los actuales propietarios de un iPhone podrán probarla. ¿La  razó… [+3814 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Javier Pastor",
+    "title": "MediaTek ya prepara sus chips para PC Copilot+, según Reuters. A Qualcomm no le va a faltar la competencia",
+    "description": "La aparición de los chips Qualcomm Snapdragon X Elite el octubre pasado y sobre todo la presentación de los PC Copilot+ de Microsoft ha hecho que el futuro de nuestros portátiles y PCs de sobremesa se ponga muy interesante. Microsoft ya dejó claro que a la pr…",
+    "url": "https://www.xataka.com/componentes/mediatek-prepara-sus-chips-para-pc-copilot-reuters-a-qualcomm-no-le-va-a-faltar-competencia",
+    "urlToImage": "https://i.blogs.es/6e8f46/mediatek1/840_560.jpeg",
+    "publishedAt": "2024-06-12T11:31:27Z",
+    "content": "La aparición de los chips Qualcomm Snapdragon X Elite el octubre pasado y sobre todo la presentación de los PC Copilot+ de Microsoft ha hecho que el futuro de nuestros portátiles y PCs de sobremesa s… [+3039 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Manu García (Visnuh)",
+    "title": "Si te falta almacenamiento en local y buscas la mejor nube para tus archivos, estas son algunas de las mejores opciones",
+    "description": "De servicios en la nube está internet lleno. Seguro que no usas uno, sino que ya estás usando un par de ellos o incluso más. Pero, por si eres nuevo en lo de guardar y compartir tus archivos en servicios externos a tu propio ordenador o móvil, aquí te ofrecem…",
+    "url": "https://www.xataka.com/seleccion/te-falta-almacenamiento-local-buscas-mejor-nube-para-tus-archivos-estas-algunas-mejores-opciones",
+    "urlToImage": "https://i.blogs.es/61931d/cloud/840_560.jpeg",
+    "publishedAt": "2024-06-12T08:15:19Z",
+    "content": "De servicios en la nube está internet lleno. Seguro que no usas uno, sino que ya estás usando un par de ellos o incluso más. Pero, por si eres nuevo en lo de guardar y compartir tus archivos en servi… [+7261 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Jose García",
+    "title": "Jabra acaba de anunciar dos nuevos auriculares. Acto seguido, ha confirmado que abandona el mercado",
+    "description": "En un movimiento de lo más peculiar, Jabra ha anunciado dos nuevos auriculares TWS de la gama Elite y, acto seguido, ha confirmado que abandona el mercado de consumo. Es decir, que dejará de fabricar auriculares a nivel usuario para centrarse en el segmento m…",
+    "url": "https://www.xataka.com/audio/jabra-acaba-anunciar-dos-nuevos-auriculares-acto-seguido-ha-confirmado-que-abandona-mercado",
+    "urlToImage": "https://i.blogs.es/380d4b/jabra/840_560.jpeg",
+    "publishedAt": "2024-06-12T10:31:27Z",
+    "content": "En un movimiento de lo más peculiar, Jabra ha anunciado dos nuevos auriculares TWS de la gama Elite y, acto seguido, ha confirmado que abandona el mercado de consumo. Es decir, que dejará de fabricar… [+3858 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Rubén Andrés",
+    "title": "Jensen Huang odia las reuniones individuales con su equipo. Hay una sola excepción: “Si me lo piden, lo dejaré todo”",
+    "description": "Jensen Huang se caracteriza por un estilo de liderazgo muy personal que ha llevado a NVIDIA a estar en el top 3 de empresas tecnológicas con mayor capitalización del mercado, solo por detrás de Microsoft y Apple, aunque por momentos incluso se ha colocado por…",
+    "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-odia-reuniones-individuales-su-equipo-hay-sola-excepcion-me-piden-dejare-todo",
+    "urlToImage": "https://i.blogs.es/04fd3d/jensen-huang/840_560.jpeg",
+    "publishedAt": "2024-06-12T12:15:29Z",
+    "content": "Jensen Huang se caracteriza por un estilo de liderazgo muy personal que ha llevado a NVIDIA a estar en el top 3 de empresas tecnológicas con mayor capitalización del mercado, solo por detrás de Micro… [+3748 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Ricardo Aguilar",
+    "title": "Honor 200 Pro, análisis: la gama alta calidad-precio existe. Este teléfono es la prueba",
+    "description": "Honor supo cómo brillar en la gama súper alta con su Magic6 Pro, pero hay un segmento con un precio algo más ajustado en el que ofrecer lo mejor de lo mejor también es clave. El Honor 200 Pro es prueba de ello, una evolución natural del 100 Pro, modelo que no…",
+    "url": "https://www.xataka.com/analisis/honor-200-pro-analisis-caracteristicas-precio-especificaciones",
+    "urlToImage": "https://i.blogs.es/fc326e/analisis/840_560.jpeg",
+    "publishedAt": "2024-06-12T14:31:29Z",
+    "content": "Honor supo cómo brillar en la gama súper alta con su Magic6 Pro, pero hay un segmento con un precio algo más ajustado en el que ofrecer lo mejor de lo mejor también es clave. El Honor 200 Pro es prue… [+20153 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Javier Marquez",
+    "title": "Alguien acaba de llevar el concepto de retro a otro nivel: ha creado un reproductor físico de “Winamp”",
+    "description": "Los dispositivos retro como consolas de décadas pasadas o reproductores de CD son una delicia para aquellos que son un poco nostálgicos. Estos les permiten revivir experiencias pasadas en un mundo tecnológico en constante evolución. Alguien ha combinado lo nu…",
+    "url": "https://www.xataka.com/makers/alguien-acaba-llevar-concepto-retro-a-otro-nivel-ha-creado-reproductor-fisico-winamp",
+    "urlToImage": "https://i.blogs.es/95a854/linamp34/840_560.jpeg",
+    "publishedAt": "2024-06-12T00:24:11Z",
+    "content": "Los dispositivos retro como consolas de décadas pasadas o reproductores de CD son una delicia para aquellos que son un poco nostálgicos. Estos les permiten revivir experiencias pasadas en un mundo te… [+1820 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Hubspot.com"
+    },
+    "author": "lbrowning@hubspot.com (Laura M. Browning)",
+    "title": "A 9-Step Guide to Writing an SEO Proposal [Free Template]",
+    "description": "Imagine you have hundreds of files in a folder labeled “Important Files.” Some of the files are named by date, some by subject, and some by author.",
+    "url": "https://blog.hubspot.com/marketing/seo-proposal#article",
+    "urlToImage": "https://lh7-us.googleusercontent.com/uL_NCZlmBdkjiUtp3v6R7Q3jIWqLh7mZ-rwIAr33qJ2U9mSM3Jzb0fSH9HjXSPr_1zVGnB1ZDjwd4ifgBUKsaorCoTT-jSGeAxQ_dJnXLzYcZQTq4d-8LMHnUSVfCbf_oakbuY3L4gS9IRMxbgn9CqI#keepProtocol",
+    "publishedAt": "2024-06-12T11:00:00Z",
+    "content": "Imagine you have hundreds of files in a folder labeled Important Files. Some of the files are named by date, some by subject, and some by author.\r\nYou have to sift through all of them to find a revie… [+13606 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Andy Boxall",
+    "title": "iOS 18’s new iMessage features make me wish everyone I know had an iPhone",
+    "description": "When Apple shows off new iMessage features, as it did at WWDC 2024, it always makes me want to use it more than I do. But I'm wise to the reason why.",
+    "url": "https://www.digitaltrends.com/mobile/ios-18-imessage-features-make-me-wish-everyone-i-know-had-an-iphone/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/06/ios-18-imessage-new-features.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2024-06-12T12:00:33Z",
+    "content": "Apple\r\nWithout fail, one thing always happens during the iOS segment at Apple’s Worldwide Developer Conference (WWDC): I have a moment where I want more people I know to own an iPhone and use iMessag… [+4440 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Apple Newsroom"
+    },
+    "author": null,
+    "title": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024",
+    "description": "Apple is sponsoring the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), which is taking place in person from June 17…",
+    "url": "https://machinelearning.apple.com/updates/apple-at-cvpr-2024",
+    "urlToImage": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "publishedAt": "2024-06-12T03:00:00Z",
+    "content": "Apple is sponsoring the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), which is taking place in person from June 17 to 21 in Seattle, Washington. CVPR is the annual computer v… [+3871 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "The Mercury News"
+    },
+    "author": "Ryan Macasero",
+    "title": "Silicon Valley salaries are shrinking, leaving workers in the lurch",
+    "description": "Silicon Valley, despite having the highest tech salaries in the country, has experienced the biggest drop in pay compared to other tech hubs in the country, falling 15.25% from 2022 to 2023.",
+    "url": "https://www.mercurynews.com/2024/06/11/silicon-valley-salaries-are-shrinking-leaving-workers-in-the-lurch/",
+    "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2024/06/SJM-L-SVSALARIES-06XX-1.jpg?w=1024&h=683",
+    "publishedAt": "2024-06-12T03:20:27Z",
+    "content": "Krista DeWeese has been laid off four times in the last eight years. She wakes up every morning feeling anxious.\r\nWill I lose my job today — again? Will I have enough to pay the rent?\r\nEven though sh… [+5009 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Mark Mantel",
+    "title": "ARM torpedoes Windows on ARM: Demands destruction of all PCs with Snapdragon X",
+    "description": "It just seems too abstruse: ARM could become relevant for PCs for the first time. However, the company itself is torpedoing the venture.",
+    "url": "https://www.heise.de/en/article/ARM-torpedoes-Windows-on-ARM-Demands-destruction-of-all-PCs-with-Snapdragon-X-9758434.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/1/1/3/6/1/IMG_5461-e969541a7e74ba49-4151a6b817606587.webp",
+    "publishedAt": "2024-06-12T07:28:20Z",
+    "content": "Contents\r\nThis article was originally published in German and has been automatically translated.\r\nARM and Qualcomm have still not settled their license dispute after almost two years. The fronts have… [+4142 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan",
+    "title": "Apple-Aktie profitiert stark von KI-Ankündigungen",
+    "description": "Ein Plus von 7,2 Prozent erreichten die Anteilsscheine des iPhone-Herstellers nach der WWDC. Nvidias Firmenwert ist überholt, Microsoft wieder in Sicht.",
+    "url": "https://www.heise.de/news/Apple-Aktie-profitiert-stark-von-KI-Ankuendigungen-9758705.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/1/1/4/9/8/shutterstock_2186475893-7d7429e06d24231b.jpg",
+    "publishedAt": "2024-06-12T08:05:00Z",
+    "content": "Apple-Anleger haben Grund zur Freude: Die Marktkapitalisierung des iPhone-Herstellers war nie so hoch wie jetzt. 3,17 Billionen US-Dollar ist Apple mit Stand Dienstag nach Marktschluss an der US-Tech… [+2235 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Malte Kirchner",
+    "title": "Apple Intelligence: So sicher sollen die Cloudserver sein",
+    "description": "Trotz hauptsächlicher Verarbeitung auf dem Gerät kommt auch Apples KI nicht ohne Cloudserver aus. Jetzt wurden neue Details zum Datenschutz bekannt.",
+    "url": "https://www.heise.de/news/Apple-Intelligence-So-sicher-sollen-die-Cloudserver-sein-9758925.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/1/1/6/1/7/Apple-Logo-2_tre-94122f265abd1ecd.jpg",
+    "publishedAt": "2024-06-12T06:23:00Z",
+    "content": "Inhaltsverzeichnis\r\nDie Versprechen, die Apple rund um seine Cloudserver für die Apple Intelligence abgegeben hat, sind groß: Daten, die dort künftig für Apples Künstliche Intelligenz verarbeitet wer… [+3576 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Isabel Grünewald",
+    "title": "KI-Update kompakt: Apple Intelligence, CustomGPTs, OpenAI, KI-Schummelei",
+    "description": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+    "url": "https://www.heise.de/news/KI-Update-kompakt-Apple-Intelligence-CustomGPTs-OpenAI-KI-Schummelei-9759696.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/1/2/0/3/7/KIupdate_Titel_122023-4cd1ddee68e292c6.png",
+    "publishedAt": "2024-06-12T13:00:00Z",
+    "content": "Inhaltsverzeichnis\r\nApple hat auf der Worldwide Developers Conference 2024 sein neues generatives KI-System \"Apple Intelligence\" vorgestellt. Es ist in iOS 18, iPadOS 18 und macOS Sequoia integriert … [+5388 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Frank Schräer",
+    "title": "Mittwoch: Shitstorm-Haftung in Österreich, Intel-Chipfabrik in Israel auf Eis",
+    "description": "Einer für alle bei Shitstorm + Intels Zögern bei neuer Chipfabrik + Tests der Android-Diebstahlerkennung + Musk gegen Apple-KI + ARM verschärft Qualcomm-Streit",
+    "url": "https://www.heise.de/news/Mittwoch-Shitstorm-Haftung-in-Oesterreich-Intel-Chipfabrik-in-Israel-auf-Eis-9758852.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/1/1/5/7/8/mittwoch-5a0f34f1524bb083.webp",
+    "publishedAt": "2024-06-12T04:30:00Z",
+    "content": "Wer sich online an einem Shitstorm beteiligt, haftet womöglich nicht nur für seinen Beitrag, sondern für alle. Das kann kosten, zumindest laut österreichischer Rechtsprechung. Zwar könne der beklagte… [+4466 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Leo Becker",
+    "title": "Apple Intelligence, iOS 18 & Co: Erste Analyse der WWDC 2024 | Mac & i-Podcast",
+    "description": "Apple hat neue Systeme für iPhones, Macs, iPads und Watches gezeigt. Tiefe KI-Integration steht im Mittelpunkt. Wir ordnen ein und nennen High- wie Lowlights.",
+    "url": "https://www.heise.de/news/Apple-Intelligence-iOS-18-Co-Erste-Analyse-der-WWDC-2024-Mac-i-Podcast-9760274.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/1/2/3/3/8/appleintelligence169-2e1941ed34fea8b3.jpg",
+    "publishedAt": "2024-06-12T13:26:00Z",
+    "content": "iOS 18, iPadOS 18, macOS 14, watchOS 11 und visionOS 2: Apple jongliert immer mehr Betriebssysteme und hat nun die alljährlichen Neuerungen für 2024 angekündigt. Neu hinzu kommt die mit Spannung erwa… [+1300 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Martin Holland",
+    "title": "Gegen Microsoft und Sam Altman: Elon Musk zieht Klage gegen OpenAI zurück",
+    "description": "Weil sich OpenAI angeblich nicht mehr an eine Gründungsvereinbarung hält, hat Elon Musk im Frühjahr eine Klage eingereicht. Die zieht er jetzt wieder zurück.",
+    "url": "https://www.heise.de/news/Gegen-Microsoft-und-Sam-Altman-Elon-Musk-zieht-Klage-gegen-OpenAI-zurueck-9758856.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/1/1/5/8/0/shutterstock_2455458967-012a3a1d596e40c4.jpg",
+    "publishedAt": "2024-06-12T05:04:00Z",
+    "content": "Elon Musk lässt die Klage gegen OpenAI fallen, das geht aus einem bei Gericht eingereichten Dokument hervor. Gründe für die Entscheidung werden darin nicht genannt. Der Schritt erfolgt nur einen Tag … [+2158 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Keywan Tonekaboni",
+    "title": "heise-Angebot: Die Erfolgsgeschichte von Linux verstehen mit dem c't Linux-Guide",
+    "description": "Linux verstehen mit dem c’t-Sonderheft. Von der Installation über praktische Tipps für den Alltag bis hin zu Hintergründen und Terminal-Tricks.",
+    "url": "https://www.heise.de/news/Die-Erfolgsgeschichte-von-Linux-verstehen-mit-dem-c-t-Linux-Guide-9752424.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/0/8/2/3/3/hb.24.05.001_mit_Hintergrund-6829f16fcdd88b53.jpg",
+    "publishedAt": "2024-06-12T12:00:00Z",
+    "content": "Linux hat eine enorme Erfolgsgeschichte hinter sich. Angefangen als Projekt eines finnischen Studenten, ist es heute ein Industriestandard und eines der bedeutendsten Open-Source-Projekte.\r\nDoch was … [+2540 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Demand for Apple Intelligence will drive an iPhone supercycle, says Wedbush",
+    "description": "Demand for Apple Intelligence features will power an iPhone supercycle, according to an analyst – with Apple one of three companies in the race to become a $4T company.\n\n\n\nApple Intelligence will require an iPhone 15 Pro or better, meaning that the majority o…",
+    "url": "https://9to5mac.com/2024/06/12/demand-for-apple-intelligence/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-intelligence.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-06-12T13:45:35Z",
+    "content": "Demand for Apple Intelligence features will power an iPhone supercycle, according to an analyst with Apple one of three companies in the race to become a $4T company.\r\nApple Intelligence will require… [+3392 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ryan Christoffel",
+    "title": "tvOS 18’s InSight feature is a lot like Prime Video’s X-Ray, but with a secret weapon",
+    "description": "The Apple TV 4K is getting some nice updates later this year in tvOS 18, and one of those enhancements is a brand new feature, InSight, that takes a lot of inspiration from a years-old Prime Video feature: .\n\n\n\nBut in classic Apple fashion, InSight has a secr…",
+    "url": "https://9to5mac.com/2024/06/12/tvos-18s-insight-feature-is-a-lot-like-prime-videos-x-ray-but-with-a-secret-weapon/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/apple-tv-generic.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-06-12T14:10:24Z",
+    "content": "The Apple TV 4K is getting some nice updates later this year in tvOS 18, and one of those enhancements is a brand new feature, InSight, that takes a lot of inspiration from a years-old Prime Video fe… [+2978 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Here are the apps Sherlocked by Apple during WWDC 2024",
+    "description": "Every WWDC sees a number of apps Sherlocked by Apple – the colloquial term for Apple announcing new built-in features which replicate those previously available in third-party apps.\n\n\n\nIt’s always a tough break for indie developers to see the market for their…",
+    "url": "https://9to5mac.com/2024/06/12/here-are-the-apps-sherlocked-by-apple-during-wwdc-2024/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/Screenshot-2024-06-12-at-14.57.56.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-06-12T14:19:00Z",
+    "content": "Every WWDC sees a number of apps Sherlocked by Apple the colloquial term for Apple announcing new built-in features which replicate those previously available in third-party apps.\r\nIt’s always a toug… [+2037 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Apple Intelligence privacy can be independently verified thanks to an ‘extraordinary step’",
+    "description": "Apple Intelligence privacy is a key differentiator for the company’s own AI initiative, with the company taking a three-step approach to safeguard personal data.\n\n\n\nBut Apple says we won’t have to take the company’s word for it: It is taking an “extraordinary…",
+    "url": "https://9to5mac.com/2024/06/12/apple-intelligence-privacy-guarantees/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/Apple-Intelligence-privacy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-06-12T11:25:59Z",
+    "content": "Apple Intelligence privacy is a key differentiator for the company’s own AI initiative, with the company taking a three-step approach to safeguard personal data.\r\nBut Apple says we won’t have to take… [+3367 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "iOS 17 adoption rate reaches 77% – but still slower than iOS 16",
+    "description": "Apple on Monday announced iOS 18 at WWDC 2024, but although the new software is already available to developers as a beta, most users will only get it this fall. In the meantime, Apple has updated its iOS adoption rate data, which reveals that iOS 17 is now i…",
+    "url": "https://9to5mac.com/2024/06/11/ios-17-adoption-rate/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/ios-17-stats.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-06-12T02:56:29Z",
+    "content": "Apple on Monday announced iOS 18 at WWDC 2024, but although the new software is already available to developers as a beta, most users will only get it this fall. In the meantime, Apple has updated it… [+1557 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Benjamin Mayo",
+    "title": "Presumed Innocent TV show starring Jake Gyllenhaal, streaming now on Apple TV+",
+    "description": "The new limited series Presumed Innocent starts streaming today on Apple TV+. Based on the boo, Jake Gyllenhaal stars in his first major TV role as Rusty Sabich, a prosecutor in the Chicago Attorney’s office.\n\n\n\nThe office is turned upside down when blame for…",
+    "url": "https://9to5mac.com/2024/06/12/how-to-watch-presumed-innocent-apple-tv-show/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-tv-how-to-watch-presumed-innocent.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-06-12T10:01:39Z",
+    "content": "The new limited series Presumed Innocent starts streaming today on Apple TV+. Based on the book by Scott Turow, Jake Gyllenhaal stars in his first major TV role as Rusty Sabich, a prosecutor in the C… [+1502 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "OpenAI hits back at Elon Musk’s claim that Apple isn’t smart and ChatGPT isn’t safe",
+    "description": "Perhaps upset that nobody cares about his own pet chatbot, Grok, Elon Musk launched a baseless attack on Apple’s AI announcements – saying that the iPhone maker wasn’t smart enough to create its own AI, and that ChatGPT isn’t safe.\n\n\n\nOpenAI’s chief technolog…",
+    "url": "https://9to5mac.com/2024/06/12/chatgpt-isnt-safe-says-musk/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-intelligence-fi.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-06-12T12:15:17Z",
+    "content": "Perhaps upset that nobody cares about his own pet chatbot, Grok, Elon Musk launched a baseless attack on Apple’s AI announcements saying that the iPhone maker wasn’t smart enough to create its own AI… [+1611 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "How to get color text in the Apple Notes app – in iOS 17 and iOS 18 [U]",
+    "description": "I recently had to Google how to get color text in the Apple Notes app, because the way to do this in iOS 17 is rather deeply hidden!\n\n\n\nEspecially if you want to do it in the iPhone or iPad app, you have to use one of three workarounds, because – strangely – …",
+    "url": "https://9to5mac.com/2024/06/12/color-text-notes-app/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/Color-text-Apple-Notes.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-06-12T12:26:34Z",
+    "content": "I recently had to Google how to get color text in the Apple Notes app, because the way to do this in iOS 17 is rather deeply hidden!\r\nEspecially if you want to do it in the iPhone or iPad app, you ha… [+3359 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Android Police"
+    },
+    "author": "Nathan Drescher",
+    "title": "Google Maps isn't perfect and these particular features annoy me the most",
+    "description": "Google Maps is a fine mapping app, but sometimes its design doesn't gell with my needs.",
+    "url": "https://www.androidpolice.com/worst-google-maps-features/",
+    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/05/google-maps-search-along-route-feature-main.jpg",
+    "publishedAt": "2024-06-12T11:00:14Z",
+    "content": "Google Maps has a few things wrong with it. Not a lot, mind you. Google Maps is hands-down the best mapping service out there, but it's not perfect. It has some glaring flaws. It has a cluttered inte… [+7233 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Android Police"
+    },
+    "author": "Jay Bonggolto",
+    "title": "HTC isn't dead yet, drops a mid-range phone that's actually pretty cool",
+    "description": "The HTC U24 Pro is here, packing a Snapdragon 7 Gen 3 chip, AI camera tricks, and more",
+    "url": "https://www.androidpolice.com/htc-is-not-deadyet/",
+    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/06/htc-u24-pro-2.jpg",
+    "publishedAt": "2024-06-12T09:42:56Z",
+    "content": "Summary\r\n<ul><li> The HTC U24 Pro boasts top-tier specs like a Snapdragon 7 Gen 3 chipset, 12GB RAM, and impressive camera setup. </li><li> Despite its superior features, availability of the phone ma… [+2150 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Genbeta.com"
+    },
+    "author": "José Alberto Lizana",
+    "title": "Una inteligencia artificial simuló 100.000 veces toda la Eurocopa 2024 para predecir el ganador",
+    "description": "Este mes de junio se presenta como uno de los favoritos para cualquier amante del fútbol debido a que comienza la Eurocopa 2024 que se celebra en Alemania. A la hora de hablar sobre el equipo favorito para ganar la competición pueden existir diferentes puntos…",
+    "url": "https://www.genbeta.com/actualidad/inteligencia-artificial-simulo-100-000-veces-toda-eurocopa-2024-para-predecir-ganador",
+    "urlToImage": "https://i.blogs.es/6fbf1c/eurocopa-2024/840_560.jpeg",
+    "publishedAt": "2024-06-12T09:24:50Z",
+    "content": "Este mes de junio se presenta como uno de los favoritos para cualquier amante del fútbol debido a que comienza la Eurocopa 2024 que se celebra en Alemania. A la hora de hablar sobre el equipo favorit… [+2851 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Autoblog"
+    },
+    "author": "Jeremy Korzeniewski",
+    "title": "2025 Honda Civic Hybrid First Drive Review: Leader of the pack",
+    "description": "Filed under:\n Green,Honda,First Drives,Hatchback,Hybrid,Sedan\n Continue reading 2025 Honda Civic Hybrid First Drive Review: Leader of the pack\n2025 Honda Civic Hybrid First Drive Review: Leader of the pack originally appeared on Autoblog on Wed, 12 Jun 2024 0…",
+    "url": "https://www.autoblog.com/2024/06/12/2025-honda-civic-hybrid-first-drive-review/",
+    "urlToImage": "https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/06/11162938/2025-Honda-Civic-Hybrid-01.jpg1.jpg",
+    "publishedAt": "2024-06-12T13:00:00Z",
+    "content": "The Honda Civic may be one of the most ubiquitous cars on roadways across the United States. Seeing them so often could lull one into thinking of the compact car as little more than an appliance, an … [+7543 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "What's new in Apple Music for iOS 18",
+    "description": "While Apple Music didn't get much love during the WWDC keynote, there are still changes on the way. Here's what's happening to the streaming music app.Apple Music has some small changes in iOS 18Apple Music has some small changes in iOS 18Apple Music has some…",
+    "url": "https://appleinsider.com/inside/apple-music/tips/whats-new-in-apple-music-for-ios-18",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60025-123144-Apple-Music-in-iOS-18-xl.jpg",
+    "publishedAt": "2024-06-12T13:07:29Z",
+    "content": "Apple Music has some small changes in iOS 18Apple Music has some small changes in iOS 18Apple Music has some small changes in iOS 18\r\nWhile Apple Music didn't get much love during the WWDC keynote, t… [+2123 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Mike Wuerthele)",
+    "title": "Four more states are jumping onto the DOJ's antitrust suit against Apple",
+    "description": "The US Department of Justice has enlisted more help in its omnibus and controversial antitrust suit against Apple, with the count now up to 20 co-plaintiffs.The Department of Justice case will hang over Apple for yearsThe four states added in an amended compl…",
+    "url": "https://appleinsider.com/articles/24/06/12/four-more-states-are-jumping-onto-the-dojs-antitrust-suit-against-apple",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/59055-120553-000-Apple-Park-and-DOJ-xl.jpg",
+    "publishedAt": "2024-06-12T12:03:06Z",
+    "content": "The Department of Justice case will hang over Apple for years\r\nThe US Department of Justice has enlisted more help in its omnibus and controversial antitrust suit against Apple, with the count now up… [+3503 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Apple honors original icon designer Susan Kare in macOS Sequoia wallpaper",
+    "description": "Susan Kare's work on the icons for the original Mac in the 1980s is now the subject of a macOS Sequoia screensaver and wallpaper.Susan Kare created works of art in 32x32 pixels for the original MacAs expected, macOS Sequoia has added at least one wallpaper th…",
+    "url": "https://appleinsider.com/articles/24/06/12/apple-honors-original-icon-designer-susan-kare-in-macos-sequoia-wallpaper",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60022-123137-000-lead-Kare-xl.jpg",
+    "publishedAt": "2024-06-12T10:46:00Z",
+    "content": "Susan Kare created works of art in 32x32 pixels for the original Mac\r\nSusan Kare's work on the icons for the original Mac in the 1980s is now the subject of a macOS Sequoia screensaver and wallpaper.… [+1272 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Mike Wuerthele)",
+    "title": "Japan's parliament has approved a law that will force third party App Stores on Apple & Google",
+    "description": "In a move very similar to the European Union, Japan's parliament has finished the process to enact a law that prohibits big tech from blocking third-party app stores.An Apple Store in JapanThe bill passed Japan's House of Representatives in may, and now the H…",
+    "url": "https://appleinsider.com/articles/24/06/12/japans-parliament-has-approved-a-law-that-will-force-third-party-app-stores-on-apple-google",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/56802-115524-44918-87318-000-lead-Apple-Store-in-Japan-xl-xl.jpg",
+    "publishedAt": "2024-06-12T14:23:35Z",
+    "content": "An Apple Store in Japan\r\nIn a move very similar to the European Union, Japan's parliament has finished the process to enact a law that prohibits big tech from blocking third-party app stores.\r\nThe bi… [+1582 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Andrew O'Hara)",
+    "title": "Our favorite features so far in iOS 18 from Control Center to Genmoji",
+    "description": "Apple's iOS 18 is on full display after Monday's WWDC keynote, and there's a lot to talk about! Here are our favorite new features that were previewed.iOS 18 adds Genmoji to the messaging mixThese yearly updates are full of hundreds of new features but there …",
+    "url": "https://appleinsider.com/articles/24/06/12/our-favorite-features-so-far-in-ios-18-from-control-center-to-genmoji",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60020-123139-ios18genmoji-xl.jpg",
+    "publishedAt": "2024-06-12T11:29:20Z",
+    "content": "iOS 18 adds Genmoji to the messaging mix\r\nApple's iOS 18 is on full display after Monday's WWDC keynote, and there's a lot to talk about! Here are our favorite new features that were previewed.\r\nThes… [+5974 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "Bento breakdown: What's new in macOS Sequoia",
+    "description": "Apple's now-traditional bento image shows off the highlights of macOS Sequoia. This is what each cell of that graphic means for Mac users this fall.Apple's macOS bento graphic on an iMac. Apple's presentation of operating system updates are usually summed up …",
+    "url": "https://appleinsider.com/articles/24/06/12/bento-breakdown-whats-new-in-macos-sequoia",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60015-123114-macosbentoonimac-xl.jpg",
+    "publishedAt": "2024-06-12T11:27:14Z",
+    "content": "Apple's macOS bento graphic on an iMac. \r\nApple's now-traditional bento image shows off the highlights of macOS Sequoia. This is what each cell of that graphic means for Mac users this fall. \r\nApple'… [+4699 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Revamped Photos app in iOS 18 makes searching better, but hides a key sharing control",
+    "description": "Even before it gets Apple Intelligence, iOS 18 has made searching through Photos faster and easier, although it's also buried a key feature for when you want to share several images.New Photos app offering further refinements to a searchUltimately, Photos in …",
+    "url": "https://appleinsider.com/articles/24/06/12/revamped-photos-app-in-ios-18-makes-searching-better-but-hides-a-key-sharing-control",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60024-123140-000-lead-Photos-xl.jpg",
+    "publishedAt": "2024-06-12T12:14:10Z",
+    "content": "New Photos app offering further refinements to a search\r\nEven before it gets Apple Intelligence, iOS 18 has made searching through Photos faster and easier, although it's also buried a key feature fo… [+3857 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Thomas Sibilly)",
+    "title": "PNY Elite-X Type-C Drive review: Small size, huge convenience",
+    "description": "The PNY Elite-X Type C Drive is a cheap, quick, and extremely portable storage solution for anyone who needs a few dozen Gigabytes in their pocket.PNY Elite-X Type-C Drive reviewAlmost every Apple device now has a USB-C port, and having a small drive brings s…",
+    "url": "https://appleinsider.com/articles/24/06/12/pny-elite-x-type-c-drive-review-small-size-huge-convenience",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58558-121875-IMG_4344-xl.jpg",
+    "publishedAt": "2024-06-12T02:46:20Z",
+    "content": "PNY Elite-X Type-C Drive review\r\nThe PNY Elite-X Type C Drive is a cheap, quick, and extremely portable storage solution for anyone who needs a few dozen Gigabytes in their pocket. \r\nAlmost every App… [+3427 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "iOS 18 gains new slow charger warning in battery settings",
+    "description": "The battery section of Settings in iOS 18 now shows when the iPhone is connected to a slow charger.It would be handy if this new \"Slow Charger\" warning were not so buried in SettingsAlongside giving users more options regarding charging limits, Apple's new iO…",
+    "url": "https://appleinsider.com/articles/24/06/12/ios-18-gains-new-slow-charger-warning-in-battery-settings",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60021-123136-000-lede-Slow-Charger-xl.jpg",
+    "publishedAt": "2024-06-12T10:04:49Z",
+    "content": "It would be handy if this new \"Slow Charger\" warning were not so buried in Settings\r\nThe battery section of Settings in iOS 18 now shows when the iPhone is connected to a slow charger.\r\nAlongside giv… [+1255 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Yanko Design"
+    },
+    "author": "Srishti Mitra",
+    "title": "10 Best Essential Lifestyle Products To Gift Modern Dads This Father’s Day",
+    "description": "10 Best Essential Lifestyle Products To Gift Modern Dads This Father’s DayA true gentleman is always selective about the products he carries and uses since they are an extension of his own personal style. The first...",
+    "url": "https://www.yankodesign.com/2024/06/12/10-best-essential-lifestyle-products-to-gift-modern-dads-this-fathers-day/",
+    "urlToImage": "https://www.yankodesign.com/images/design_news/2024/06/lifestyle-products-for-fathers-day/top_10_lifestyle_products_fathers_day_yanko_design_01.jpg",
+    "publishedAt": "2024-06-12T11:40:04Z",
+    "content": "A true gentleman is always selective about the products he carries and uses since they are an extension of his own personal style. The first gentlemen we all encounter are our dads, and this Father’s… [+10373 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Windows Central"
+    },
+    "author": "kevinokemwa@outlook.com (Kevin Okemwa)",
+    "title": "Will Apple's new AI capture the \"most valuable company\" title from Microsoft or inspire its own Recall privacy PR nightmare?",
+    "description": "Apple Intelligence has raised privacy and security concerns despite the system running on-device and relying on Private Cloud Compute. However, it still needs cloud muscle for more complex requests.",
+    "url": "https://www.windowscentral.com/software-apps/will-apple-new-ai-inspire-recall-privacy-pr-nightmare",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/WvVFU7zikNWVx8ynzfL43b-1200-80.jpg",
+    "publishedAt": "2024-06-12T10:52:51Z",
+    "content": "Every major tech event is now centered on artificial intelligence, as has been the case for Microsoft, OpenAI, and most recently, Apple. WWDC 2024 has to be one of the most anticipated tech events th… [+5381 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Windows Central"
+    },
+    "author": "sendicott47@outlook.com (Sean Endicott)",
+    "title": "MediaTek will end Qualcomm's exclusive reign over Arm-based Windows PCs in 2025",
+    "description": "Chip designer MediaTek will reportedly make Arm-based chips for Windows PCs as soon as next year. Qualcomm is the only company that makes Arm chips for PCs at the moment, but that could change after a reported exclusivity agreement ends this year.",
+    "url": "https://www.windowscentral.com/hardware/cpu-gpu-components/mediatek-will-end-qualcomms-exclusive-reign-over-arm-based-windows-pcs-in-2025",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/A9U6WJaXbdmBF2kJxtV3ef-1200-80.jpg",
+    "publishedAt": "2024-06-12T11:53:04Z",
+    "content": "What you need to know\r\n<ul><li>MediaTek will make an Arm-based chip for Windows PCs, according to a recent report.</li><li>Qualcomm has reportedly had an exclusive agreement with Microsoft regarding … [+2972 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "tristan carballeda",
+    "title": "Apple ne veut pas entendre parler d’intelligence artificielle",
+    "description": "Apple a tenu ce lundi soir une conférence de deux heures avec en point d'orgue \"Apple Intelligence\", mais ce n'est pas de l'IA.",
+    "url": "https://www.journaldugeek.com/2024/06/12/apple-ne-veut-pas-entendre-parler-dintelligence-artificielle/",
+    "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/05/Apple-iPhone-15-Pro.jpg",
+    "publishedAt": "2024-06-12T11:11:36Z",
+    "content": "Apple a profité de la conférence douverture de la WWDC lundi soir pour présenter lun de ses plus gros projets de ses dernières années « Apple Intelligence ». Si cette solution logicielle ressemble à … [+2400 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Thomas Estimbre",
+    "title": "Apple n’exclut pas de proposer l’IA Gemini de Google dans iOS",
+    "description": "Apple confirme son virage vers l'intelligence artificielle à la WWDC 2024. Partenaire de ChatGPT et OpenAI, la marque à la Pomme n'écarte pas l'idée de proposer Gemini de son concurrent Google.",
+    "url": "https://www.journaldugeek.com/2024/06/12/apple-nexclut-pas-de-proposer-lia-gemini-de-google-dans-ios/",
+    "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/06/Apple-WWDC24-Apple-Intelligence-Siri-ChatGPT-request.jpg",
+    "publishedAt": "2024-06-12T05:42:32Z",
+    "content": "Les annonces se sont enchaînés à un rythme soutenu hier, lors de la keynote d’ouverture de la WWDC 2024. La plus importante concerne le virage d’Apple dans le domaine de l’intelligence artificielle a… [+2364 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Arthur Nicolle",
+    "title": "Resident Evil continue de s’exporter chez Apple avec deux nouveaux portages",
+    "description": "Les détenteurs de Mac, iPad et iPhone compatibles pourront bientôt jouer à deux opus cultes de la franchise horrifique.",
+    "url": "https://www.journaldugeek.com/2024/06/12/resident-evil-continue-de-sexporter-chez-apple-avec-deux-nouveaux-portages/",
+    "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/06/resident-evil-7-iphone.jpg",
+    "publishedAt": "2024-06-12T06:36:07Z",
+    "content": "Les appareils Apple sont-ils en passe de devenir de nouvelles plateformes idéales pour le gaming ? Après avoir tourné le dos à l’industrie vidéoludique des années durant – à l’exception du marché spé… [+2503 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Guille Lomener",
+    "title": "Apple Salud: qué es, para qué sirve, qué funcionales tiene y cómo configurarla con tu Apple Watch",
+    "description": "La aplicación Salud de Apple es un gran centro de información donde podremos echar un vistazo a nuestras tendencias deportivas, cómo hemos dormido, los pasos que hemos dado e incluso nuestra salud del corazón. En este artículo te vamos a ayudar a comprender a…",
+    "url": "https://www.applesfera.com/nuevo/apple-salud-que-sirve-que-funcionales-tiene-como-configurarla-tu-apple-watch",
+    "urlToImage": "https://i.blogs.es/0ca150/salud-3/840_560.png",
+    "publishedAt": "2024-06-12T12:01:27Z",
+    "content": "La aplicación Salud de Apple es un gran centro de información donde podremos echar un vistazo a nuestras tendencias deportivas, cómo hemos dormido, los pasos que hemos dado e incluso nuestra salud de… [+7678 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "Por qué macOS 15 se llama Sequoia y de dónde viene este histórico nombre",
+    "description": "Catalina, Big Sur, Monterey, Ventura, Sonoma y ahora Sequoia. Estos son sólo algunos ejemplos de los nombres que han tenido las últimas versiones de macOS, el sistema operativo de los Mac de Apple. Suenan incluso divertidos, pero lo cierto es que son \"raros\" …",
+    "url": "https://www.applesfera.com/os-x/que-macos-15-se-llama-sequoia-donde-viene-este-historico-nombre",
+    "urlToImage": "https://i.blogs.es/aa523f/sequoia/840_560.jpeg",
+    "publishedAt": "2024-06-12T08:01:19Z",
+    "content": "Catalina, Big Sur, Monterey, Ventura, Sonoma y ahora Sequoia. Estos son sólo algunos ejemplos de los nombres que han tenido las últimas versiones de macOS, el sistema operativo de los Mac de Apple. S… [+6092 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "José A. Lizana",
+    "title": "Apple \"pasa por encima\" de Samsung con su nueva AI, y son buenas noticias para todos los usuarios",
+    "description": "Tras muchos meses de espera y de rumores, Apple al final se ha sumado al movimiento de revolución que se está viviendo en el paradigma tecnológico con el lanzamiento de nuevas inteligencias artificiales. En la WWDC 2024 fuimos testigos del lanzamiento de Appl…",
+    "url": "https://www.applesfera.com/ios/apple-pasa-encima-samsung-su-nueva-ai-buenas-noticias-para-todos-usuarios",
+    "urlToImage": "https://i.blogs.es/d4bc6d/apple-intelligencedd/840_560.jpeg",
+    "publishedAt": "2024-06-12T09:01:21Z",
+    "content": "Tras muchos meses de espera y de rumores, Apple al final se ha sumado al movimiento de revolución que se está viviendo en el paradigma tecnológico con el lanzamiento de nuevas inteligencias artificia… [+3688 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "iOS 18 trae lo mejor de Android al iPhone y deja lo peor: estas son sus nuevas opciones de personalización",
+    "description": "Si hay algo que ha diferenciado a los iPhone de los móviles Android a lo largo de los años, eso ha sido la personalización. Si bien es cierto que en el sistema operativo de Google y, sobre todo en las capas de terceros, sigue habiendo muchas más opciones, en …",
+    "url": "https://www.applesfera.com/ios/ios-18-trae-mejor-android-al-iphone-deja-peor-estas-sus-nuevas-opciones-personalizacion",
+    "urlToImage": "https://i.blogs.es/8b307f/ios18/840_560.jpeg",
+    "publishedAt": "2024-06-12T07:02:07Z",
+    "content": "Si hay algo que ha diferenciado a los iPhone de los móviles Android a lo largo de los años, eso ha sido la personalización. Si bien es cierto que en el sistema operativo de Google y, sobre todo en la… [+3462 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "Después de años descuidada, por fin Siri es útil de verdad. Este es el gran cambio en IA que esperábamos desde hace años",
+    "description": "Los fans de los memes tenemos hoy un pequeño sentimiento de nostalgia. Se acabaron todos los chascarrillos que hacían alusión a la torpeza de Siri para realizar peticiones de lo más básicas. Por suerte, la alegría en el alma de entusiasta de la tecnología gan…",
+    "url": "https://www.applesfera.com/desarrollo-de-software/despues-anos-descuidada-fin-siri-util-verdad-este-gran-cambio-ia-que-esperabamos-hace-anos",
+    "urlToImage": "https://i.blogs.es/116bb4/siri-ai/840_560.jpeg",
+    "publishedAt": "2024-06-12T10:01:32Z",
+    "content": "Los fans de los memes tenemos hoy un pequeño sentimiento de nostalgia. Se acabaron todos los chascarrillos que hacían alusión a la torpeza de Siri para realizar peticiones de lo más básicas. Por suer… [+6759 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "Acabo de instalar iOS 18 y tengo claro que estas cinco funciones revolucionan mi forma de interactuar con el iPhone",
+    "description": "La jornada inaugural de la WWDC 2024 le sirvió a Apple para presentar sus nuevos sistemas operativos. Para sorpresa de pocos (o de ninguno), iOS 18 fue la estrella del evento. Y también sin sorpresa para quienes me conocen, me he aventurado ya a instalar la b…",
+    "url": "https://www.applesfera.com/ios/acabo-instalar-ios-18-tengo-claro-que-estas-cinco-funciones-revolucionan-mi-forma-interactuar-iphone",
+    "urlToImage": "https://i.blogs.es/7c060f/ios-18/840_560.jpeg",
+    "publishedAt": "2024-06-12T14:01:30Z",
+    "content": "La jornada inaugural de la WWDC 2024 le sirvió a Apple para presentar sus nuevos sistemas operativos. Para sorpresa de pocos (o de ninguno), iOS 18 fue la estrella del evento. Y también sin sorpresa … [+7171 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Isra Fdez",
+    "title": "No es un error, por fin venden aceite de oliva barato: estas apps para iOS te dicen cuál es la mejor oferta de cada supermercado",
+    "description": "Todavía no podemos ir con unas Apple Vision Pro paseándonos por el supermercado mientras las ofertas saltan sobre el display pero sí podemos localizar el aceite de oliva virgen extra más económico de supermercados como Alcampo, Eroski, Mercadona o Carrefour. …",
+    "url": "https://www.applesfera.com/aplicaciones-ios-1/no-es-un-error-por-fin-venden-aceite-de-oliva-barato-estas-apps-para-ios-te-dicen-cual-es-la-mejor-oferta-de-cada-supermercado",
+    "urlToImage": "https://i.blogs.es/b7360f/aceite-de-oliva/840_560.jpeg",
+    "publishedAt": "2024-06-12T11:01:30Z",
+    "content": "Todavía no podemos ir con unas Apple Vision Pro paseándonos por el supermercado mientras las ofertas saltan sobre el display pero sí podemos localizar el aceite de oliva virgen extra más económico de… [+2851 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Jesús Quesada",
+    "title": "La última genialidad de Lidl es este altavoz acuático para continuar la fiesta en la piscina a un precio bajísimo",
+    "description": "Una de las mejores cosas del verano es refrescarse en la piscina (si se tiene una en casa o en la urbanización, claro está), y lo que eso conlleva: las reuniones con amigos, familia y las fiestas, en las que no puede faltar la música. En Lidl está a la venta …",
+    "url": "https://www.applesfera.com/seleccion/ultima-genialidad-lidl-este-altavoz-acuatico-para-continuar-fiesta-piscina-a-precio-bajisimo",
+    "urlToImage": "https://i.blogs.es/ea662f/altavoz-acuatico/840_560.jpeg",
+    "publishedAt": "2024-06-12T08:31:19Z",
+    "content": "Una de las mejores cosas del verano es refrescarse en la piscina (si se tiene una en casa o en la urbanización, claro está), y lo que eso conlleva: las reuniones con amigos, familia y las fiestas, en… [+1846 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Raghav Sethi",
+    "title": "The 7 Best iPadOS 18 Features Announced at WWDC 2024",
+    "description": "Make sure you explore these features once iPadOS arrives in fall 2024.",
+    "url": "https://www.makeuseof.com/best-ipados-18-features/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/2-ipads-running-ipados-18.jpg",
+    "publishedAt": "2024-06-12T11:30:13Z",
+    "content": "At WWDC 2024, Apple announced iPadOS 18 with several exciting new features that will make their way to iPads in fall 2024. Below, we'll discuss some of the best iPadOS 18 features that will further i… [+5241 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Phandroid - News for Android"
+    },
+    "author": "Tyler Lee",
+    "title": "Spotify’s lossless tier could be a pricey affair",
+    "description": "Leaked information has revealed the potential pricing for Spotify’s upcoming lossless tier that could add an extra $5 a month to your bill.\nThe post Spotify’s lossless tier could be a pricey affair appeared first on Phandroid.",
+    "url": "https://phandroid.com/2024/06/12/spotifys-lossless-tier-could-be-a-pricey-affair/",
+    "urlToImage": "https://phandroid.com/wp-content/uploads/2018/01/spotify-tom-petty-640x424.jpg",
+    "publishedAt": "2024-06-12T12:31:26Z",
+    "content": "We have been hearing rumors that Spotify could be working on a new tier for its music service. This would be a lossless tier that would allow users to stream higher quality audio. Unfortunately, it s… [+1049 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Setra",
+    "title": "iOS 18 : 3 nouveautés de l’iPhone qui existent déjà sur Android",
+    "description": "En plus d’avoir présenté Apple Intelligence, Apple a également fait le plein de nouveautés pour iOS.",
+    "url": "https://www.presse-citron.net/ios-18-3-nouveautes-de-liphone-qui-existent-deja-sur-android/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2024/06/test-iphone-15-pro-review-avis.jpg",
+    "publishedAt": "2024-06-12T10:32:53Z",
+    "content": "Incontestablement, la star de la conférence WWDC dApple était Apple Intelligence, une série de fonctionnalités basées sur lIA pour les iPhone, les iPad et les Mac compatibles, qui permettent à Apple … [+3162 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Jean-Yves Alric",
+    "title": "Cette vérité qui dérange sur Apple Intelligence, la nouvelle IA",
+    "description": "Tim Cook a admis une faille sur ce nouveau produit.",
+    "url": "https://www.presse-citron.net/cette-verite-qui-derange-sur-apple-intelligence-la-nouvelle-ia/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2024/06/apple-intelligence-edito.jpg",
+    "publishedAt": "2024-06-12T09:55:13Z",
+    "content": "Cétait le clou du spectacle lors du keynote de la WWDC ce lundi. La firme de Cupertino a présenté Apple Intelligence. Derrière ce terme, nous retrouvons lensemble des fonctionnalités dIA que le géant… [+2556 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Setra",
+    "title": "AirPods Pro : quelle est cette nouveauté Apple dont vous ne pourrez plus jamais vous passer ?",
+    "description": "Apple prépare également une importante mise à jour pour les AirPods Pro de deuxième génération : grâce à l’IA, vous pourrez utiliser Siri sans parler, en hochant ou en secouant la tête.",
+    "url": "https://www.presse-citron.net/airpods-pro-quelle-est-cette-nouveaute-apple-dont-vous-ne-pourrez-plus-jamais-vous-passer/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2024/06/iPhone-AirPods-Pro-2-USB-C-Musique-podcast.jpg",
+    "publishedAt": "2024-06-12T11:33:41Z",
+    "content": "La conférence WWDC dApple est très riche en nouveautés. En effet, en plus davoir présenté les nouvelles versions de ses systèmes dexploitation, la firme de Cupertino a aussi présenté Apple Intelligen… [+2399 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Romain Vitt",
+    "title": "Test DJI RS 4 Pro : 3 raisons de s’équiper du dernier stabilisateur de caméra DJI",
+    "description": "Mi-2024, DJI dévoilait les RS 4 et RS 4 Pro, ses nouveaux stabilisateurs pour caméra. Nous avons testé le modèle le plus avancé, destiné aux vidéastes avertis et/ou professionnels. Voici les 3 raisons de s’équiper.**",
+    "url": "https://www.presse-citron.net/test-dji-rs-4-pro/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2024/06/test-dji-rs-4-pro.jpg",
+    "publishedAt": "2024-06-12T11:00:24Z",
+    "content": "Leader du marché des drones, DJI simpose aussi au fil des années comme un acteur majeur de la création vidéo. Pour conclure son premier semestre 2024 très chargé, lentreprise lance le RS 4 et le RS 4… [+4623 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "XDA Developers"
+    },
+    "author": "Joo Carrasqueira",
+    "title": "Minisforum AtomMan X7 Ti review: My new favorite mini PC",
+    "description": "If you want a new mini PC that stands out from the pack, the AtomMan X7 Ti is for you.",
+    "url": "https://www.xda-developers.com/minisforum-atomman-x7-ti-review/",
+    "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/06/minisforum-atomman-x7-ti-01.jpg",
+    "publishedAt": "2024-06-12T13:40:14Z",
+    "content": "I've made it no secret that I love mini PCs, and because of that, I've had my eye on Minisforum for quite a while. The company may not be the most recognizable name in the industry, but it has been p… [+9273 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Golem.de"
+    },
+    "author": "Daniel Ziegener",
+    "title": "Beta ab Herbst: Apple Intelligence kommt nicht für alle und nur auf Englisch",
+    "description": "Apples neue KI-Integrationen für iOS, MacOS und Co. sollen erst sehr viel später auf Deutsch funktionieren. (Apple Intelligence, Apple)",
+    "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fbeta-ab-herbst-apple-intelligence-kommt-nicht-fuer-alle-und-nur-auf-englisch-2406-185984.html&referer=https%3A%2F%2Ft.co%2F774f848273",
+    "urlToImage": null,
+    "publishedAt": "2024-06-12T09:35:02Z",
+    "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Golem.de"
+    },
+    "author": "Christian Rentrop",
+    "title": "(g+) Emulatoren im App Store: Das iPhone ist jetzt eine echte Taschenkonsole",
+    "description": "Mobile Games schön und gut, doch das iPhone kann eigentlich auch vollwertige Computerspiele. Dank der Emulatoren-Revolution im App Store finden sich dort endlich auch Premium-Titel und sogar Betriebssysteme. Von Christian Rentrop (Apple App Store, Apple)",
+    "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Femulatoren-im-app-store-das-iphone-ist-jetzt-eine-echte-taschenkonsole-2406-185890.html&referer=https%3A%2F%2Ft.co%2Fc827e8c12f",
+    "urlToImage": null,
+    "publishedAt": "2024-06-12T10:00:01Z",
+    "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Xataka Android"
+    },
+    "author": "Pepu Ricca",
+    "title": "La locura de las superapps en China se les ha ido de las manos: Alipay, la app para pagar, ahora detecta si te estás quedando calvo",
+    "description": "Aunque en China, la mayoría de teléfonos inteligentes utilizan Android, lo hacen con ecosistemas propios alejados de la tecnología de Google. Ahí está HarmonyOS de Huawei, con un plan muy ambicioso y desechando la compatibilidad con apps de Android. También l…",
+    "url": "https://www.xatakandroid.com/aplicaciones-android/locura-superapps-china-se-les-ha-ido-manos-alipay-app-para-pagar-ahora-detecta-te-estas-quedando-calvo",
+    "urlToImage": "https://i.blogs.es/a1e2a0/superapps-china-calvo/840_560.jpeg",
+    "publishedAt": "2024-06-12T13:31:30Z",
+    "content": "Aunque en China, la mayoría de teléfonos inteligentes utilizan Android, lo hacen con ecosistemas propios alejados de la tecnología de Google. Ahí está HarmonyOS de Huawei, con un plan muy ambicioso y… [+4558 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Android Authority"
+    },
+    "author": "Ryan Haines",
+    "title": "PSA: Don’t buy an older iPhone if you want the full iOS experience",
+    "description": "If you actually want the latest and greatest from Apple Intelligence, you'd better be ready to spring for a Pro-grade iPhone.",
+    "url": "https://www.androidauthority.com/older-iphone-apple-intelligence-3450661/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/06/iPhone-iOS18-Control-Panel.jpg",
+    "publishedAt": "2024-06-12T14:00:07Z",
+    "content": "Apple just put an expiration date on almost all of its iPhones even those it hasnt sold yet. Well, maybe thats a little dramatic, but if you want the most powerful software coming out of Cupertino in… [+3670 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Android Authority"
+    },
+    "author": "Mahmoud Itani",
+    "title": "iOS 18 hands-on impressions: Apple is Android-ifying the iPhone experience",
+    "description": "iOS 18 beta 1 is now available to those registered in Apple's developer program, and we've tested its new features. Here's what we think.",
+    "url": "https://www.androidauthority.com/ios-18-hands-on-3450497/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/06/iOS-18-beta-1-on-iPhone-15-Pro-Max-scaled.jpg",
+    "publishedAt": "2024-06-12T13:00:57Z",
+    "content": "During its Worldwide Developers Conference (WWDC), Apple previewed 2024s major OS updates. Coming to its products this fall, these highly anticipated versions will offer some of the most significant … [+15594 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Setra",
+    "title": "Et si Tesla, X ou SpaceX lançait un smartphone ? “Ce n’est pas hors de question”, a déclaré Elon Musk",
+    "description": "Elon Musk n’exclut (toujours) pas l’idée de lancer un smartphone. Celui-ci n’a pas du tout apprécié le rapprochement entre Apple et OpenAI, le créateur de ChatGPT.",
+    "url": "https://www.presse-citron.net/et-si-tesla-x-ou-spacex-lancait-un-smartphone-ce-nest-pas-hors-de-question-a-declare-elon-musk/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2024/04/Tesla-Superchargeur.jpg",
+    "publishedAt": "2024-06-12T07:07:21Z",
+    "content": "En 2022, Elon Musk avait déjà indiqué que si le réseau social X était banni des plateformes Android et iOS, celui-ci naurait dautre choix que de proposer une alternative. Et aujourdhui, lidée dun sma… [+2250 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Romain Pomian-Bonnemaison",
+    "title": "Comment installer la bêta iOS 18 sur iPhone dès maintenant",
+    "description": "Vous pouvez dès maintenant installer iOS 18 en bêta. Voici comment faire, ainsi que tout ce qu'il faut savoir avant de se lancer.",
+    "url": "https://www.presse-citron.net/comment-installer-la-beta-ios-18-sur-iphone-des-maintenant/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2024/06/siri-iphone.jpg",
+    "publishedAt": "2024-06-12T06:22:54Z",
+    "content": "Comme promis par Tim Cook, la mise à jour majeure iOS 18 est disponible au téléchargement en bêta développeur. Cette mise à jour marque l’entrée des produits Apple dans l’intelligence artificielle – … [+4202 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Romain Pomian-Bonnemaison",
+    "title": "Intelligence artificielle : Elon Musk jette l’éponge face à OpenAI",
+    "description": "OpenAI vient de réussir à éloigner Elon Musk d'un procès en justice en détruisant, mails internes à l'appui, l'ensemble de ses arguments.",
+    "url": "https://www.presse-citron.net/openai-reussit-a-forcer-elon-musk-a-deposer-les-armes/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2024/02/elon-musk-1.jpg",
+    "publishedAt": "2024-06-12T10:55:20Z",
+    "content": "Elon Musk fait volte-face et abandonne son action en justice contre OpenAI a-t-on appris mardi 11 juin 2024. La procédure était centrée sur une hypothétique “rupture de contrat” que l’entrepreneur au… [+3679 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Faz.net"
+    },
+    "author": "Marcel Weiß",
+    "title": "Apple Intelligence: Apples große KI-Offensive",
+    "description": "Mit Apple Intelligence stellt Apple die neue KI-Ebene für seine Betriebssysteme vor. Sie entspricht der „Cook-Doktrin“: KI auf den eigenen Systemen so weit wie möglich selbst zu kontrollieren.",
+    "url": "https://www.faz.net/pro/d-economy/plattformen/apple-intelligence-die-neue-ki-ebene-fuer-apple-betriebssysteme-19781913.html",
+    "urlToImage": "https://media0.faz.net/ppmedia/pro/d-economy/plattformen/162387174/1.9782066/facebook_teaser_fplus/hq/videopraesentation-waehrend.jpg",
+    "publishedAt": "2024-06-12T04:51:00Z",
+    "content": "I've always wanted to own and control the primary technology in everything we do, Ich wollte schon immer die primäre Technologie bei allem, was wir tun, besitzen und kontrollieren. Diesen Satz hat St… [+330 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Faz.net"
+    },
+    "author": "Marcel Weiß",
+    "title": "Apple Intelligence: Apples große KI-Offensive",
+    "description": "Mit Apple Intelligence stellt Apple die neue KI-Ebene für seine Betriebssysteme vor. Sie entspricht der „Cook-Doktrin“: KI auf den eigenen Systemen so weit wie möglich selbst zu kontrollieren.",
+    "url": "https://www.faz.net/pro/d-economy/plattformen/apple-intelligence-apples-grosse-ki-offensive-19781913.html",
+    "urlToImage": "https://media0.faz.net/ppmedia/pro/d-economy/plattformen/162387174/1.9782066/facebook_teaser_fplus/hq/videopraesentation-waehrend.jpg",
+    "publishedAt": "2024-06-12T04:51:00Z",
+    "content": "I've always wanted to own and control the primary technology in everything we do, Ich wollte schon immer die primäre Technologie bei allem, was wir tun, besitzen und kontrollieren. Diesen Satz hat St… [+330 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Faz.net"
+    },
+    "author": "https://www.facebook.com/faz",
+    "title": "Sommermärchen oder Terror-Albtraum? Sorge vor EM-Anschlägen",
+    "description": "Im F.A.Z. Podcast für Deutschland sprechen wir unter anderem mit Güner Balci, der Integrationsbeauftragten von Neukölln, über die vernachlässigte Gefahr Islamismus und was dagegen zu tun ist.",
+    "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/sommermaerchen-oder-terror-albtraum-sorge-vor-em-anschlaegen-19783531.html",
+    "urlToImage": "https://media0.faz.net/ppmedia/aktuell/politik/118630615/1.9783574/facebook_teaser_fplus/52c61a52-1263-11ef-827f.jpg",
+    "publishedAt": "2024-06-12T14:10:01Z",
+    "content": "Unsere Hörerfrage für Freitag, den 7. Juni:\r\nWarum wählt die Jugend rechts?\r\nSchreiben Sie uns bitte Ihre Fragen, Anmerkungen und Meinungen an:\r\nOder senden Sie uns eine Sprach- oder Textnachricht un… [+507 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "kevinokemwa@outlook.com (Kevin Okemwa)",
+    "title": "Apple Intelligence heralds a new era of privacy — outshining Microsoft’s aspirations for unparalleled security with Private Cloud Compute",
+    "description": "Apple has all the potential to reclaim its glory and become the world's most valuable company again if it addresses AI security and privacy concerns from the onset.",
+    "url": "https://www.imore.com/apple/apple-intelligence-heralds-a-new-era-of-privacy-outshining-microsofts-aspirations-for-unparalleled-security-with-private-cloud-compute",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/LHXprYve6dWNZgJtReduoX-1200-80.jpg",
+    "publishedAt": "2024-06-12T10:39:42Z",
+    "content": "So, WWDC 2024. Apple just held its long-anticipated event which was packed with a ton of AI announcements as earlier speculated. Perhaps Apple Intelligence and Apple's new partnership with OpenAI to … [+6855 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "daryl.baxter@futurenet.com (Daryl Baxter)",
+    "title": "You probably missed Apple's biggest iOS 18 messaging upgrade, and it's not RCS",
+    "description": "iOS 18 will let you send texts from anywhere via Satellite — as long as you have an iPhone 14 or later.",
+    "url": "https://www.imore.com/ios/ios-18/you-probably-missed-apples-biggest-ios-18-messaging-upgrade-and-its-not-rcs",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/2VFeuvg4QWKKafEbg4MKe5-1200-80.jpg",
+    "publishedAt": "2024-06-12T11:40:58Z",
+    "content": "Amongst the many announcements from Apple’s WWDC keynote on June 10, a major upgrade to Messages was revealed for iOS 18, and it’s not RCS.\r\nAvailable to those who own an iPhone 14 or later when iOS … [+2681 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Abrar Al-Heeti （CNET News） 翻訳校正： 編集部",
+    "title": "アップルの「マップ」などに新機能、「Apple ID」は「Apple Account」に",
+    "description": "アップルは、「マップ」「Apple Pay」「Apple Music」「Apple Fitness+」「Apple Wallet」など、複数のサービスに関するアップデートを発表した。秋にリリースする「iOS 18」「iPadOS 18」「watchOS 11」「tvOS 18」で新機能を提供する予定だ。",
+    "url": "https://japan.cnet.com/article/35219990/",
+    "urlToImage": "https://japan.cnet.com/storage/2024/06/12/6f7f573d0ca2c61a515d59ca3238b962/apple-maps-hiking-trails-wwdc-2024_1280x960.jpg",
+    "publishedAt": "2024-06-12T01:32:00Z",
+    "content": "Apple611Apple PayApple MusicApple Fitness+Apple WalletiOS 18iPadOS 18watchOS 11tvOS 18\r\nPlaces Library\r\nApple Pay\r\niPhoneiPadApple Pay\r\nApple Pay\r\nTap to CashVenmo\r\nTap to Cash2iPhoneApple Cash\r\nAppl… [+444 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "iOS 18 Lock Screen Customization Options Include Multicolor Clock",
+    "description": "Apple in iOS 18 has added a new multicolor swatch to the Font & Color customization options on the Lock Screen, so now you can display the time in rainbow colors against your chosen wallpaper.\n\n\n\n\n\nUnlike the other color swatches, the multicolor option does n…",
+    "url": "https://www.macrumors.com/2024/06/12/ios-18-lock-screen-multicolor-clock-option/",
+    "urlToImage": "https://images.macrumors.com/t/oL8otZamoWp_YeKnVNnXaTqYvwY=/1920x/article-new/2024/06/clock-color-ios-18.jpg",
+    "publishedAt": "2024-06-12T11:59:30Z",
+    "content": "Apple in iOS 18 has added a new multicolor swatch to the Font &amp; Color customization options on the Lock Screen, so now you can display the time in rainbow colors against your chosen wallpaper.\r\nU… [+709 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Enriquedans.com"
+    },
+    "author": "Enrique Dans",
+    "title": "Apple, la inteligencia artificial y el pragmatismo",
+    "description": "Mi columna en Invertia de esta semana se titula «¿La manzana inteligente?» (pdf), y es un intento de explicar la estrategia de Apple en un ámbito, el de la inteligencia artificial, en el que no tiene las cosas para nada fáciles.  La presentación de apertura d…",
+    "url": "https://www.enriquedans.com/2024/06/apple-la-inteligencia-artificial-y-el-pragmatismo.html",
+    "urlToImage": "https://www.enriquedans.com/wp-content/uploads/2024/06/Apple-Intelligence.webp",
+    "publishedAt": "2024-06-12T09:49:12Z",
+    "content": "Mi columna en Invertia de esta semana se titula «¿La manzana inteligente?» (pdf), y es un intento de explicar la estrategia de Apple en un ámbito, el de la inteligencia artificial, en el que no tiene… [+5101 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Stereogum"
+    },
+    "author": "Tom Breihan",
+    "title": "Charli XCX’s Brooklyn Brat Show Had Live Debuts, A Lorde Appearance, And Matty Healy Seemingly Announcing He’s Engaged",
+    "description": "On Friday, Charli XCX released Brat, and it’s immediately emerged as a consensus critical pick for album of the year. Right now, Brat is projected to debut at #1 on the American album chart, which is way higher than Charli’s ever been over here. (The UK chart…",
+    "url": "https://www.stereogum.com/2267580/charli-xcxs-brooklyn-brat-show-had-live-debuts-a-lorde-appearance-and-matty-healy-seemingly-announcing-hes-engaged/news/",
+    "urlToImage": "https://static.stereogum.com/uploads/2024/06/Charli-XCX-1718194727.jpg",
+    "publishedAt": "2024-06-12T13:01:36Z",
+    "content": "On Friday, Charli XCX released Brat, and it’s immediately emerged as a consensus critical pick for album of the year. Right now, Brat is projected to debut at #1 on the American album chart, which is… [+3378 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Rolling Stone"
+    },
+    "author": "Alan Sepinwall",
+    "title": "‘Presumed Innocent’ Is Guilty of Turning an Erotic Legal Thriller Into a Snoozefest",
+    "description": "Jake Gyllenhaal is a hotshot lawyer accused of killing his lover in this limited series adaptation of Scott Turrow's bestseller. The verdict is: Not good",
+    "url": "http://www.rollingstone.com/tv-movies/tv-movie-reviews/presumed-innocent-review-jake-gyllenhaal-apple-1235034935/",
+    "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/06/Presumed_Innocent_Photo_01020165.jpg?w=1600&h=900&crop=1",
+    "publishedAt": "2024-06-12T13:00:00Z",
+    "content": "When older film fans lament the loss of the mid-budget movie made for grown-ups, Presumed Innocent is an obvious example of what they have in mind. The 1990 adaptation of Scott Turow’s best-selling l… [+6594 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "MIT Technology Review"
+    },
+    "author": "Rhiannon Williams",
+    "title": "The Download: Apple’s AI plans, and a carbon storage boom",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Apple is promising personalized AI in a private cloud. Here’s how that will work. At its Worldwide Developer Conference o…",
+    "url": "https://www.technologyreview.com/2024/06/12/1093618/the-download-apples-ai-plans-and-a-carbon-storage-boom/",
+    "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2024/06/AP24162624125255.jpg?resize=1200,600",
+    "publishedAt": "2024-06-12T12:10:00Z",
+    "content": "At its Worldwide Developer Conference on Monday, Apple for the first time unveiled its vision for supercharging its product lineup with artificial intelligence. The key feature, which will run across… [+1396 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Caschys Blog"
+    },
+    "author": "Felix Frank",
+    "title": "Apple CarPlay: So soll die neue Generation jetzt ausschauen",
+    "description": "Im Rahmen der WWDC 2024 hat Apple zahlreiche Neuerungen für seine Betriebssysteme vorgestellt. Ein neues CarPlay hat Cupertino bereits auf der WWDC 2022 verlauten lassen, bislang kam da aber nichts. Für 2024 wurden letztlich Fahrzeuge mit der neuen Unterstütz…",
+    "url": "https://stadt-bremerhaven.de/apple-carplay-so-soll-die-neue-generation-jetzt-ausschauen/",
+    "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/04/Apple-Carplay-next-gen.jpg",
+    "publishedAt": "2024-06-12T08:00:23Z",
+    "content": "Im Rahmen der WWDC 2024 hat Apple zahlreiche Neuerungen für seine Betriebssysteme vorgestellt. Ein neues CarPlay hat Cupertino bereits auf der WWDC 2022 verlauten lassen, bislang kam da aber nichts. … [+1500 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Caschys Blog"
+    },
+    "author": "André Westphal",
+    "title": "Blackmagic Ursa Cine Immersive: Kamera speziell für Content für die Apple Vision Pro",
+    "description": "Blackmagic vertreibt unterschiedliche Kameras, die oftmals attraktive Preis-Leistungs-Verhältnisse bieten, sich in der Bedienung aber eher an (semi-)professionele Anwender richten. Das trifft auch auf das kommende Modell Blackmagic Ursa Cine Immersive zu. Als…",
+    "url": "https://stadt-bremerhaven.de/blackmagic-ursa-cine-immersive-kamera-speziell-fuer-content-fuer-die-apple-vision-pro/",
+    "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/06/Blackmagic-Ursa-Cine-Immersive.jpeg",
+    "publishedAt": "2024-06-12T13:00:41Z",
+    "content": "Blackmagic vertreibt unterschiedliche Kameras, die oftmals attraktive Preis-Leistungs-Verhältnisse bieten, sich in der Bedienung aber eher an (semi-)professionele Anwender richten. Das trifft auch au… [+1482 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Caschys Blog"
+    },
+    "author": "Felix Frank",
+    "title": "Outlook: Basis-Authentifizierung wird abgeschafft",
+    "description": "Microsoft ist logischerweise bestrebt, für seine Mailing-Lösung Outlook neben Funktionalität und Benutzerfreundlichkeit auch diverse Sicherheiten für das Produkt sicherzustellen. Da geht es beispielsweise um den Schutz vor unbefugtem Zugriff, Manipulation ode…",
+    "url": "https://stadt-bremerhaven.de/outlook-basis-authentifizierung-wird-abgeschafft/",
+    "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2018/07/Outlook-Logo.jpg",
+    "publishedAt": "2024-06-12T05:30:46Z",
+    "content": "Microsoft ist logischerweise bestrebt, für seine Mailing-Lösung Outlook neben Funktionalität und Benutzerfreundlichkeit auch diverse Sicherheiten für das Produkt sicherzustellen. Da geht es beispiels… [+2138 chars]"
+    },
+  {
+   "source": {
+    "id": null,
+    "name": "Frandroid"
+    },
+    "author": "Vincent Sergère",
+    "title": "Le vélo électrique Intersport, Apple CarPlay se métamorphose, toutes les nouveautés Apple – Tech’spresso",
+    "description": "Vous n’avez pas eu le temps de suivre l’actualité hier ? Voici ce qui a marqué le mardi 11 juin : le nouveau vélo électrique Intersport, la nouvelle version d'Apple CarPlay et surtout, toutes les nouveautés Apple avec iOS 18 et macOS Sequoia. Pour ne manquer …",
+    "url": "https://www.frandroid.com/actualites-generales/2046098_le-velo-electrique-intersport-apple-carplay-se-metamorphose-toutes-les-nouveautes-apple-techspresso",
+    "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/06/intersport-nakamura-roadster-open-8-scaled.jpg",
+    "publishedAt": "2024-06-12T05:01:33Z",
+    "content": "Vous navez pas eu le temps de suivre lactualité hier? Voici ce qui a marqué le mardi 11 juin : le nouveau vélo électrique Intersport, la nouvelle version d'Apple CarPlay et surtout, toutes les nouvea… [+1446 chars]"
+    }
+    ]
+    }
